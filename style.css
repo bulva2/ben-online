@@ -1,0 +1,59 @@
+body {
+    background: radial-gradient(circle, rgba(121,221,139,1) 0%, rgba(184,180,169,0.6054796918767507) 100%);
+}
+
+
+.nadpis {
+    color: white;
+    font-size: 100px;
+    padding: 0%;
+    margin: 0.5%;
+    text-align: center;
+}
+
+.ben {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20%;
+}
+
+.call {
+    border-style: none;
+    background-color: #1e980e;
+    color: white;
+    font-size: 20px;
+    margin-top: 20px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 15px 30px;
+    cursor: pointer;
+}
+
+.hangup {
+    border-style: none;
+    background-color: #c60f0f;
+    color: white;
+    font-size: 20px;
+    margin-top: 20px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 15px 30px;
+    cursor: pointer;
+}
+
+.input {
+    display: block;
+    margin-top: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: blanchedalmond;
+    height: 50px;
+    width: 400px;
+}
+
+html {
+    font-family: 'Roboto', sans-serif;
+}
